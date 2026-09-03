@@ -1,0 +1,20 @@
+DIFOR V25.0 — QA PANEL CONTROL
+
+Validaciones realizadas:
+[OK] Sintaxis JavaScript de todos los scripts inline de index.html con node --check.
+[OK] Sintaxis de sw.js.
+[OK] Sintaxis de _worker.js.
+[OK] Acción crear tarea conectada.
+[OK] Acción editar tarea conectada.
+[OK] Acción marcar/desmarcar conectada.
+[OK] Acción mover tarea arriba/abajo conectada.
+[OK] Acción eliminar tarea conectada con confirmación.
+[OK] Prioridad Alta/Media/Baja persistida.
+[OK] Orden por Día/Semana/Mes persistido en notes.
+[OK] Apunte diario editable + guardado manual + autoguardado.
+[OK] Apunte mensual editable + guardado manual + autoguardado.
+[OK] Accesos rápidos crear/editar/mover/eliminar desde Panel.
+[OK] Función moveSettingItem restaurada/definida para orden persistente.
+[OK] Resumen de Hoy y Pulso del Mes usan datos existentes.
+[OK] Cache PWA actualizado a difor-v25-0.
+[OK] Base V24.9 restante preservada.

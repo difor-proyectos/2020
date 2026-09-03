@@ -1,0 +1,12 @@
+DIFOR V25.2 — QA
+
+VALIDACIONES REALIZADAS
+- JavaScript inline de index.html: sintaxis OK con node --check.
+- sw.js: sintaxis OK.
+- _worker.js: sintaxis OK.
+- Dashboard: conversiones separadas Ventas/Prospectos y BK aprobados/BK ingresados.
+- Resumen de gestiones: etiquetas completas y acceso por módulo.
+- Panel Control: edición de accesos rápidos visible solo en Modo Edición.
+- Recordatorios: campana superior, badge y alertas in-app para vencidos/exigibles.
+- Reportería: encabezados estables, IDs, created_at/updated_at y DATA_MASTER.
+- Hoja Maestra V25.2 incluida en carpeta HOJA_MAESTRA.

@@ -1,0 +1,9 @@
+DIFOR V24.0 Cloud
+- Sin clave de sincronización en interfaz.
+- Sincronización automática misma URL Cloudflare.
+- /api/sync acepta GET, POST y OPTIONS explícitamente.
+- Compatible con bindings D1 DIFOR_DB o DB.
+- Compatible con R2 DIFOR_FILES o BUCKET.
+- Sala de Venta y Ofertas continúan con espejo local crítico y se sincronizan a D1.
+- Tema Black forzado al abrir; White es opción secundaria por sesión.
+- Service Worker cache v24-0.

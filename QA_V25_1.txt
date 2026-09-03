@@ -1,0 +1,12 @@
+DIFOR V25.1 — QA PANEL + DASHBOARD
+[OK] Sintaxis JavaScript de todos los scripts de index.html.
+[OK] Sintaxis sw.js.
+[OK] Sintaxis _worker.js.
+[OK] Ruta Dashboard registrada en ROUTES y renderRoute.
+[OK] Dashboard agregado a DEFAULT_NAV.
+[OK] Panel superior con Accesos rápidos y Recordatorios.
+[OK] Recordatorios: crear / editar / completar / eliminar.
+[OK] Tareas editables, ordenables y eliminables preservadas.
+[OK] Apuntes con autoguardado preservados.
+[OK] Dashboard reutiliza datos existentes sin duplicar registros.
+[OK] Cache PWA actualizado a difor-v25-1.

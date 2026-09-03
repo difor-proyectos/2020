@@ -1,0 +1,19 @@
+DIFOR V23.6 CLOUD — QA / CAMBIOS
+
+- Proyecto completo, no parche.
+- Sala de Venta y Ofertas: migraciones no destructivas.
+- Mirror local adicional para salesFloor/offers.
+- Cerrar sesión intenta sincronizar y nunca elimina Sala/Ofertas.
+- Sincronización: estrategia Equipo principal / Equipo adicional.
+- Auto-sync cada 15 s + foco + volver online + volver a pestaña.
+- Cloud metadata endpoint para detectar nube vacía/existente.
+- D1 sincroniza registros; R2 archivos pesados.
+- Diseño multipantalla: precio 2x2 en tarjetas estrechas, 4 columnas solo cuando hay ancho real.
+- Prevención de overflow en precio/documentación y tarjetas.
+- navigator.storage.persist solicitado en HTTPS cuando el navegador lo permite.
+
+V23.6 RESPONSIVE
+- Precio/documentación rediseñado para no superponer textos.
+- Container queries: 4 columnas solo cuando la tarjeta tiene ancho real suficiente; 2 columnas en tablet/móvil; 1 en pantallas muy estrechas.
+- Flecha de cambio de cara movida al encabezado para no tapar precios.
+- Sala/Ofertas y sincronización Cloudflare conservadas desde V23.6.

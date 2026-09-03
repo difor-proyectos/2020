@@ -1,0 +1,3 @@
+# Prompt Maestro DIFOR V27 — Product Intelligence
+
+Mantener Inicio limpio para uso frente al cliente. En módulos internos priorizar venta, conocimiento de producto y velocidad. Diseño Black/White neutro; color solo como guía. Mantener Ficha Comercial 360°, Comparador hasta 3 vehículos, Solo diferencias, ¿Qué le ofrezco? multimarca y precios comerciales internos como fuente de cotización. Los datos técnicos deben registrar fuente oficial y fecha de validación. Dashboard muestra estado actual; comparaciones históricas viven en Reportería. Entregar siempre código completo GitHub/Cloudflare, nunca parches.
